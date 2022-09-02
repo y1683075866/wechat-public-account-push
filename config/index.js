@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx5250809a904b0378",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "0fa61d1a570c9d231b3360f9a33b2172",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "ZvZA8Q5earcA27-5yHzYu_IH9sSv56HnlKeEL1cuXO8",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "",
+    CALLBACK_TEMPLATE_ID: "oxR6O5zl4OSLYIXMAy4TWxy1-wjs",
 
 
     /**
@@ -41,9 +41,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河南",
     // 所在城市
-    CITY: "惠州",
+    CITY: "三门峡",
 
     /** 重要节日相关 */
 
